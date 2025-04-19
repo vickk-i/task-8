@@ -2,7 +2,6 @@
 ---
 
 ```markdown
-![image](https://github.com/user-attachments/assets/cf4efba1-8b0b-4ede-a74c-ad328a2d6558)
 
 # 📊 Superstore Sales Dashboard (Power BI)
 
@@ -45,7 +44,7 @@ The dataset contains the following key fields:
 
 Below is a snapshot of the interactive dashboard created in Power BI:
 
-![Dashboard Screenshot](./path-to-your-dashboard-image.png)
+![image](https://github.com/user-attachments/assets/e985e814-462a-4e77-b76c-ed4e67ae6070)
 
 > 📌 *Replace the image path above with your actual screenshot file (e.g., `images/dashboard.png`)*
 
