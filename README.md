@@ -44,9 +44,8 @@ The dataset contains the following key fields:
 
 Below is a snapshot of the interactive dashboard created in Power BI:
 
-![image](https://github.com/user-attachments/assets/e985e814-462a-4e77-b76c-ed4e67ae6070)
+![image](https://github.com/user-attachments/assets/90f8f570-1d00-415d-b6a7-c1d0ee589782)
 
-> 📌 *Replace the image path above with your actual screenshot file (e.g., `images/dashboard.png`)*
 
 ---
 
