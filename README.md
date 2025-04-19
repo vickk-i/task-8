@@ -43,10 +43,10 @@ The dataset contains the following key fields:
 ## 📸 Dashboard Preview
 
 Below is a snapshot of the interactive dashboard created in Power BI:
+```
+![image](https://github.com/user-attachments/assets/24725f5e-b618-426c-8eb1-b969c15c164f)
 
-![image](https://github.com/user-attachments/assets/90f8f570-1d00-415d-b6a7-c1d0ee589782)
-
-
+```
 ---
 
 ## 📊 Visuals in the Dashboard
