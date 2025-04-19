@@ -2,6 +2,8 @@
 ---
 
 ```markdown
+![image](https://github.com/user-attachments/assets/cf4efba1-8b0b-4ede-a74c-ad328a2d6558)
+
 # 📊 Superstore Sales Dashboard (Power BI)
 
 This project presents an **interactive sales performance dashboard** created using **Power BI**, based on the Superstore Sales dataset. It offers insights into how sales vary by product category, region, and time, enabling business users to make informed decisions.
